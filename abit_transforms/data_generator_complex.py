@@ -354,4 +354,3 @@ if __name__ == "__main__":
     print("    product_type='majority',")
     print("    complexity='complex'  # <-- Use 'complex' for fair comparison")
     print(")")
-    print("\nThis will create patterns that fairly test all transforms!")
