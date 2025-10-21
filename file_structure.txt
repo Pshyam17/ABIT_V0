@@ -78,4 +78,3 @@ touch abit_transforms/evaluation/__init__.py
 touch abit_transforms/evaluation/metrics.py
 touch abit_transforms/evaluation/visualizer.py
 
-# Copy the code from the artifacts into respective files
